@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="test de visiteur">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/gsb.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/gsb.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Templates/template.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Templates/template.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +281,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ORM/LaravelORM" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -339,7 +339,7 @@
       <workItem from="1602499022918" duration="194000" />
       <workItem from="1602503042996" duration="22000" />
       <workItem from="1602503066320" duration="6886000" />
-      <workItem from="1602510957852" duration="1859000" />
+      <workItem from="1602510957852" duration="2561000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -365,11 +365,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="test de visiteur" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="260" y="265" key="FileChooserDialogImpl" timestamp="1602510513705">
+    <state x="260" y="265" key="FileChooserDialogImpl" timestamp="1602513320005">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="265" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1602499020401" />
-    <state x="260" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602510513705" />
+    <state x="260" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602513320005" />
     <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1602511355014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

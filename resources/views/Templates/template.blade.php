@@ -13,8 +13,8 @@
     <body>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
             <div class="container">
-                <a class=""navbar-brand" href="{{url('/')}}">GSB</a>
-                <button class=""navbar-toggler" type="button" data-toggler="collapse" data-target="#navbarResponsive" aria_control
+                <a class="navbar-brand" href="{{url('/')}}">GSB</a>
+                <button class="navbar-toggler" type="button" data-toggler="collapse" data-target="#navbarResponsive" aria_control>
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
