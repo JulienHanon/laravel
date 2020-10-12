@@ -21,11 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="test de visiteur">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/vueHomeController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/models/vueHome.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/vueMedicaments.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vueMedicaments.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/vuevueHome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/gsb.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/gsb.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -343,7 +339,7 @@
       <workItem from="1602499022918" duration="194000" />
       <workItem from="1602503042996" duration="22000" />
       <workItem from="1602503066320" duration="6886000" />
-      <workItem from="1602510957852" duration="1488000" />
+      <workItem from="1602510957852" duration="1859000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
