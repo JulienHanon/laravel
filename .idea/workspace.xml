@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="test de visiteur">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/vueHomeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/models/vueHome.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/vuevueHome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/vueHomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/models/vueHome.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/vueMedicaments.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vueMedicaments.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/vuevueHome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,12 +298,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="Z:\laravel\app\Models\models" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\BTS SIO 2 2021\SIO2 SLAM\SLAM 4\Laravel\laravelsang" />
       <recent name="C:\Users\hanon\OneDrive\Documents\BTS\Laravel\laravelsang" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\laravel\app\Models\models" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -342,7 +343,7 @@
       <workItem from="1602499022918" duration="194000" />
       <workItem from="1602503042996" duration="22000" />
       <workItem from="1602503066320" duration="6886000" />
-      <workItem from="1602510957852" duration="841000" />
+      <workItem from="1602510957852" duration="1488000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
